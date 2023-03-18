@@ -1,0 +1,8 @@
+Cleaning process
+1.There was not too much to clean since the data had significant missing data 
+2.The data had proper data type, hence absolutely nothing was done to the data type
+3.But to get the number of people the review has helped, i had to use the excel text to columns to split the helpful count
+field
+4.It had something like this, '455-helpful count'
+5.I used the demlimeter to get the number out of the split
+Thats how i was able to clean the data
